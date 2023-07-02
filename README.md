@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa Gamal</h1>
 <h3 align="center">Software engineer  Interested in AI & Machine learning</h3>
-<img align="center" alt="coding" width="500" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif)">
+<img align="center" alt="coding" width="500" src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-array22&label=Profile%20views&color=0e75b6&style=flat" alt="mr-array22" /> </p>
 
 - 🌱 I’m currently learning **React Js,NodeJs,**
