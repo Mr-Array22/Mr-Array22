@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-array22&label=Profile%20views&color=0e75b6&style=flat" alt="mr-array22" /> </p>
 
-- 🌱 I’m currently learning **React Js,NodeJs,**
+- 🌱 I’m currently learning **Data Science,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
