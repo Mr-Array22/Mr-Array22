@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hey there, I'm Mostafa Gamal I'm a passionate data scientist with expertise in Python and Machine learning, dedicated to crafting robust and scalable systems and applications. My journey into the world of coding began with a curiosity-driven exploration, and it has evolved into a commitment to delivering high-quality solutions.</h1>
+<h1 align="center">👋 Passionate data scientist and fresh graduate from Helwan University with a degree in Computer Science and Artificial
+Intelligence. Adept at developing machine learning models, performing data analysis, and delivering actionable insights,
+with a focus on NLP and computer vision. Completed an internship at Omoto.ai, developing NLP models and creating
+Arabic datasets for fine-tuning and Lang chain applications. My graduation project involved creating a Question Answering
+System on the Quran using transformer models and Lang chain.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-array22&label=Profile%20views&color=0e75b6&style=flat" alt="mr-array22" /> </p>
 
 - 📫 My Portfolio **https://www.datascienceportfol.io/MostafaGamal**
