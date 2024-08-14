@@ -1,8 +1,4 @@
-<h1 align="center">👋 Passionate data scientist and fresh graduate from Helwan University with a degree in Computer Science and Artificial
-Intelligence. Adept at developing machine learning models, performing data analysis, and delivering actionable insights,
-with a focus on NLP and computer vision. Completed an internship at Omoto.ai, developing NLP models and creating
-Arabic datasets for fine-tuning and Lang chain applications. My graduation project involved creating a Question Answering
-System on the Quran using transformer models and Lang chain.</h1>
+<h1 align="center">As a recent graduate in Computer Science and Artificial Intelligence from Helwan University, I bring a strong foundation in Machine Learning, NLP, and AI. During my academic journey, I honed my skills in developing sophisticated machine learning models and conducting comprehensive data analysis to extract actionable insights. I have hands-on experience with NLP and computer vision projects, contributing to high-impact open-source initiatives and internships. My passion lies in transforming complex datasets into strategic business solutions, and I am committed to continuous learning and innovation in AI technologies </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-array22&label=Profile%20views&color=0e75b6&style=flat" alt="mr-array22" /> </p>
 
 - 📫 My Portfolio **https://www.datascienceportfol.io/MostafaGamal**
