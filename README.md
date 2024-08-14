@@ -1,4 +1,4 @@
-<h1 align="center"> Skilled in Machine Learning, NLP, and AI with hands-on experience in creating advanced models and analyzing data. Passionate about turning complex data into actionable insights and dedicated to innovation in AI. Active contributor to open-source projects and internships.
+<h1 align="center"> Skilled in Machine Learning, NLP, and AI with hands-on experience in creating advanced models and analyzing data. Passionate about turning complex data into actionable insights and dedicated to innovation in AI. Active contributor to open-source projects.
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-array22&label=Profile%20views&color=0e75b6&style=flat" alt="mr-array22" /> </p>
 
